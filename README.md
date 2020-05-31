@@ -1,2 +1,2 @@
 # imFromKobe
-Im from Japan
+Im from Japan, too.
